@@ -9,6 +9,7 @@
 #include "TMath.h"
 #include <time.h>
 
+#macro
 void StandaloneApplication(int argc, char** argv) {
   clock_t tStart = clock();
   // ==>> here the ROOT macro is called
